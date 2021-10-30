@@ -154,7 +154,7 @@ a:hover{
     display:flex;
     align-items:center;
     justify-content:center;
-    height:100vh;
+    height:fit-content;
   }
   #header_container{
     height:40vh;
