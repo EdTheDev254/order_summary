@@ -44,7 +44,7 @@ font-family: 'Red Hat Display', sans-serif;
 }
 
 #section_container p{
-  text-align :center;
+  text-align:center;
   line-height:22px;
   font-size:14px;
   padding:0 25px;
@@ -98,7 +98,7 @@ a{
 
 a:hover{
   color:hsl(225, 100%, 74%);
-  cursor: pointer;
+  cursor:pointer;
   text-decoration:none;
 }
 
