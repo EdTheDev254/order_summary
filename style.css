@@ -142,7 +142,7 @@ a:hover{
   color:hsl(223,47%,10%);
 }
 
-@media (min-width:1440px){
+@media (min-width:480px){
   body{
     margin:0;
     padding:0;
@@ -156,8 +156,13 @@ a:hover{
     justify-content:center;
     height:fit-content;
   }
+
+#header_container{
+    height:45vh;
+} 
   
   #main_div_container{
     width:30%;
+    margin:10%;
   }
 }
