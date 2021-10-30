@@ -27,7 +27,7 @@ font-family: 'Red Hat Display', sans-serif;
   background:url("./images/illustration-hero.svg");
   background-size:cover;
   background-position: center;
-  height:50vh;
+  height:30vh;
   border-radius:20px 20px 0 0;
 }
 
@@ -157,7 +157,7 @@ a:hover{
     height:100vh;
   }
   #header_container{
-    height:10vh;
+    height:40vh;
   }
   
   #main_div_container{
