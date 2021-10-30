@@ -156,11 +156,8 @@ a:hover{
     justify-content:center;
     height:fit-content;
   }
-  #header_container{
-    height:40vh;
-  }
   
   #main_div_container{
-    width:32%;
+    width:30%;
   }
 }
