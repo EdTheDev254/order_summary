@@ -139,14 +139,6 @@ a:hover{
   color:hsl(223,47%,10%);
 }
 
-@media (orientation:landscape) {
-    #header_container{
-        height:40vh;
-    } 
-    #main_div_container{
-        width:40%;
-    } 
-}
 
 @media(min-width:768px) and (max-width:1007px){
 	body{
