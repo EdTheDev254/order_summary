@@ -17,7 +17,7 @@ font-family: 'Red Hat Display', sans-serif;
 #main_div_container{
   display:block;
   border-radius:20px;
-  margin:20% 8%;
+  margin:15% 8%;
   text-align:center;
   box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.1), 0 7px 30px 0 rgba(0, 0, 0, 0.2);
   background-color:#ffff;
@@ -137,23 +137,6 @@ a:hover{
 
 #button_bottom:hover{
   color:hsl(223,47%,10%);
-}
-
-@media (min-width:768px){
-  body{
-    background:url("./images/pattern-background-desktop.svg");
-    background-color:hsl(225, 100%, 94%);
-    background-position:top;
-    background-repeat:no-repeat;
-  }
-
-#header_container{
-    height:40vh;
-} 
-  
-  #main_div_container{
-    margin:23% 30%;
-  }
 }
 
 @media (orientation:landscape) {
